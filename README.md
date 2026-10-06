@@ -26,17 +26,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /> </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefjoo8&theme=tokyonight&border_radius=10" alt="youssefjoo8's Streak" />
-</p>
-
----
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
